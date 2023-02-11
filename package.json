@@ -1,0 +1,16 @@
+{
+  "name": "common-carriage-answer-wo7rg",
+  "productName": "common-carriage-answer-wo7rg",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Hernan Curuchet",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "20.1.4"
+  }
+}
